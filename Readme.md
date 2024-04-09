@@ -93,7 +93,7 @@ $ npm install mysqljs/mysql
 
 ## Introduction
 
-This is a node.js driver for mysql. It is written in JavaScript, does not
+This is a node.js driver for [MySQL](https://www.mysql.com/) and other compatible servers including [MariaDB](https://www.mariadb.org). It is written in JavaScript, does not
 require compiling, and is 100% MIT licensed.
 
 Here is an example on how to use it:
